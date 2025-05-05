@@ -19,6 +19,7 @@ The system leverages **YOLOv8**, a state-of-the-art deep learning model for obje
 - **Deep Learning**: YOLOv8, a convolutional neural network (CNN), powers object detection and classification.
 - **Computer Vision**: OpenCV processes video frames and overlays annotations (bounding boxes, labels, and text).
 - **Intelligent Decision-Making**: Custom logic analyzes vehicle counts and movement to provide traffic insights.
+- *The `yolov8n.pt` model is not included in the repository to keep it lightweight. The script downloads it automatically from [Ultralytics](https://github.com/ultralytics/assets/releases).*
 
 ## Requirements
 - Python 3.8 or higher
