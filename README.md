@@ -27,9 +27,3 @@ The system leverages **YOLOv8**, a state-of-the-art deep learning model for obje
   - `ultralytics`: For YOLOv8 model inference
 - A video file (e.g., MP4 format) for processing
 - YOLOv8 model weights (`yolov8n.pt`)
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Vehicle-Detection.git
-   cd Vehicle-Detection
